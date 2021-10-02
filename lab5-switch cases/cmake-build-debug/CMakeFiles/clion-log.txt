@@ -1,0 +1,4 @@
+"A:\clion\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\ACADEMIC 1ST SEM-1ST YEAR\Programming Fundamentals\C projects\lab5-switch cases"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/ACADEMIC 1ST SEM-1ST YEAR/Programming Fundamentals/C projects/lab5-switch cases/cmake-build-debug

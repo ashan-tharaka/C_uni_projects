@@ -1,0 +1,4 @@
+D:/ACADEMIC 1ST SEM-1ST YEAR/Programming Fundamentals/C projects/lab6/exercises/3/cmake-build-debug/CMakeFiles/3.dir
+D:/ACADEMIC 1ST SEM-1ST YEAR/Programming Fundamentals/C projects/lab6/exercises/3/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ACADEMIC 1ST SEM-1ST YEAR/Programming Fundamentals/C projects/lab6/exercises/3/cmake-build-debug/CMakeFiles/main.dir
+D:/ACADEMIC 1ST SEM-1ST YEAR/Programming Fundamentals/C projects/lab6/exercises/3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

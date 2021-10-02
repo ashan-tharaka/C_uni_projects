@@ -1,0 +1,5 @@
+D:/ACADEMIC 1ST SEM-1ST YEAR/Programming Fundamentals/C projects/lab5-switch cases/cmake-build-debug/CMakeFiles/lab5_switch_cases.dir
+D:/ACADEMIC 1ST SEM-1ST YEAR/Programming Fundamentals/C projects/lab5-switch cases/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/ACADEMIC 1ST SEM-1ST YEAR/Programming Fundamentals/C projects/lab5-switch cases/cmake-build-debug/CMakeFiles/lab5_switch_cases1.dir
+D:/ACADEMIC 1ST SEM-1ST YEAR/Programming Fundamentals/C projects/lab5-switch cases/cmake-build-debug/CMakeFiles/main1.dir
+D:/ACADEMIC 1ST SEM-1ST YEAR/Programming Fundamentals/C projects/lab5-switch cases/cmake-build-debug/CMakeFiles/edit_cache.dir
