@@ -4,10 +4,10 @@ int main() {
     char name[20],id[10];
     int dos;
     printf("Enter the name:");
-    scanf("%s",&name);
+    scanf("%[^\n]%*c",name);
     printf("Enter the ID No:");
     getchar();
-    scanf("%s",&id);
+    scanf("%s",id);
     printf("Enter the Duration of study:");
     scanf("%d",&dos);
     printf("Name is %s\n",name);

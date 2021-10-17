@@ -3,9 +3,10 @@
 
 int main() {
     int countp=0,countn=0,multi=0,sump=0,sumn=0,max=0,min=0;
-    printf("Enter the numbers:");
+    int i;
+    printf("Enter the numbers:\n");
     do{
-        int i;
+
 
         scanf("%d ",&i);
 
@@ -16,16 +17,20 @@ int main() {
             max=i;
 
         }
+        if(i%3==0){
+            multi++;
 
+        }
 
+        if(i==0){
 
-        if(i>0){
+            break;
+        }
+
+        else if(i>0){
             countp++;
             sump+=i;
-            if(i%3==0){
-                multi++;
 
-            }
 
         }
         else if(i<0){
@@ -35,11 +40,9 @@ int main() {
 
 
 
-         else if(i==0) {
-             break;
-         }
 
-    } while (1);
+
+    } while (i!=0);
 
     printf("Number of positive integers: =%d\n",countp);
     printf("Number of negative integers: =%d\n",countn);

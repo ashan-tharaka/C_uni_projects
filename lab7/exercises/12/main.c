@@ -24,7 +24,7 @@ int main() {
         printf("Sorry %c Is Incorrect\nTry Again\n",c);
         break;
 
-    }
+    }p
 
 
     return 0;
