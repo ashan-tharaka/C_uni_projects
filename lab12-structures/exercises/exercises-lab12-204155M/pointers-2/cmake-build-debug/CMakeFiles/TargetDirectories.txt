@@ -1,0 +1,3 @@
+D:/ACADEMIC 1ST SEM-1ST YEAR/Programming Fundamentals/C projects/lab12-structures/exercises/pointers-2/cmake-build-debug/CMakeFiles/pointers_2.dir
+D:/ACADEMIC 1ST SEM-1ST YEAR/Programming Fundamentals/C projects/lab12-structures/exercises/pointers-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ACADEMIC 1ST SEM-1ST YEAR/Programming Fundamentals/C projects/lab12-structures/exercises/pointers-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
